@@ -1,8 +1,8 @@
 # slack-clone
 
-This is clone app.
+This is Slack Webapp app.
 
-I am using
+I am using below tech
 
 1. ReactJs
 2. Google Auth(firebase)
