@@ -6,7 +6,7 @@ I am using below tech
 
 1. ReactJs
 2. Google Auth(firebase)
-3. React Context API(Redux)
+3. React Context API(Redux) & React Router
 4. Material UI(Icons+Make it look elegant)
 5. Css variables
 6. Flex Box
