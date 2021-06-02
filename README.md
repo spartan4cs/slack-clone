@@ -5,7 +5,7 @@ This is Slack Webapp app.
 I am using below tech
 
 1. ReactJs
-2. Google Auth(firebase)
+2. Google Auth(firebase) 10:51
 3. React Context API(Redux) & React Router
 4. Material UI(Icons+Make it look elegant)
 5. Css variables
